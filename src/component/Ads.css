@@ -1,0 +1,59 @@
+.container1{
+    text-align: center;
+}
+
+.container1 h1{
+    font-size: 40px;
+    color: rgb(55, 49, 33);
+    margin-top: 200px;
+}
+.container1 p{
+    margin-top: 10px;
+    color: black;
+    width: 700px;
+    text-align: center;
+    margin-left: 300px;
+}
+.container1 .adsCards  {
+     display: flex;
+     /* align-content:space-between; */
+     margin-top: 10px;
+     top: 20px;
+     
+    
+}
+.container1 .adsCards .card{
+ border-radius: 5px;
+
+ 
+
+
+}
+.card:hover{
+    box-shadow: 5px 4px 1px rgb(103, 97, 97);
+
+}
+.container1 .adsCards .card button {
+   background-color: #91AD41;
+   top:10px ;
+   height: 50px;
+   width: 220px;
+
+   
+}
+.container1 .adsCards .card  {
+  
+ margin-top: 20px;
+ text-align: center;
+ font-size: 20px;
+ gap: 40px;
+ margin: 40px 20px;
+
+}
+.card img{
+    margin-left: 4px;
+}
+.last-card img{
+    top: 70px;
+    width: 441px;
+}

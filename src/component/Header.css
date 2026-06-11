@@ -1,0 +1,38 @@
+.main{
+       display: flex;
+       margin-top: 20px;
+       width: 100%;
+
+}
+
+h1{
+    font-size: 40px;
+    font-variant: normal;
+    margin-top: 270px;
+    /* margin-left: 130px; */
+}
+span{
+    color: #DE9190;
+}
+
+p{
+    font-size: 17px;
+        /* margin-left: 130px; */
+        line-height:1.3;
+        color: pink;
+        top: 10px;
+
+}
+button{
+    height: 70px;
+    width: 250px;
+    margin-top: 30px;
+    /* margin-left: 130px; */
+    border-radius: 35px;
+    font-size: 17px;
+    background-color: #DE9190;
+}
+main img{
+    height:500px;
+    width: 50%;
+}

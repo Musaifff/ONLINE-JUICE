@@ -1,0 +1,23 @@
+
+.footer-main{
+    text-align: center;
+    margin-top: 5px;
+    height: 100px;
+     
+   
+}
+.footer-main p{
+    margin-top: 20px;
+}
+.footer-main h3{
+    width: 700px;
+   margin-left: 295px;
+    align-self: center;
+    font-size: smaller;
+    color: rgba(56, 59, 59, 0.876);
+    
+    
+}
+.footerr .footer-main img{
+      border-radius: 50%;
+}

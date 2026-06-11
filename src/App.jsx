@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Navbar from './component/Navbar'
-import Info from './component/info'
+import Info from './component/Info'
 import Cards  from './component/Cards'
 import Header from './component/Header'
 import Center from './component/Center'
